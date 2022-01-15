@@ -16,7 +16,6 @@ int main()
         }
         t--;
     }
-	
 	cout<<count;
 	return 0;
 }
