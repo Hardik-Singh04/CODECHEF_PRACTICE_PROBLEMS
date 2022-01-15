@@ -1,6 +1,5 @@
 #include <bits/stdc++.h> 
 using namespace std;
-
 int main() 
 {
     int t=0,k=0,count=0;
